@@ -1,6 +1,6 @@
 # Olá, eu sou João Felipe Ferro
 
-Senior Data Analyst com experiência em Business Intelligence, Analytics Engineering e análise de desempenho financeiro e operacional.
+Senior Data Analyst com mais de 6 anos de experiência em Business Intelligence, Analytics Engineering e análise de desempenho financeiro e operacional.
 
 Atuo na construção de ambientes analíticos, estruturação de KPIs e transformação de dados em ferramentas de apoio à decisão para lideranças. Nos últimos anos, trabalhei com arquitetura analítica em BigQuery, pipelines de dados ponta a ponta, dashboards executivos e ambientes de BI utilizados por diferentes áreas do negócio.
 
