@@ -1,4 +1,4 @@
-# Olá, eu sou João Felipe Ferro
+# Olá, eu sou o João Felipe Ferro
 
 Senior Data Analyst com mais de 6 anos de experiência em Business Intelligence, Analytics Engineering e análise de desempenho financeiro e operacional.
 
