@@ -92,5 +92,5 @@ Projeto de inteligência macroeconômica com ingestão de dados reais, detecçã
 
 ## Contato
 
-- LinkedIn: [linkedin.com/in/joaofelipeferro](https://linkedin.com/in/joaofelipeferro)
+- LinkedIn: [linkedin.com/in/joao-felipe-ferro](https://linkedin.com/in/joaofelipeferro)
 - Email: joaoferro710@gmail.com
